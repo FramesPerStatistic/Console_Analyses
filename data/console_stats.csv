@@ -1,0 +1,14 @@
+console,company,launch year,type,launch price,cost price,2025 price,2025 cost
+DS,Nintendo,2004,portable,149.99,100,253.93,169.30
+PSP,Sony,2005,portable,249.99,190,409.35,311.12
+Wii,Nintendo,2006,static,249.99,158,396.56,250.64
+X360,Microsoft,2005,static,299,340,489.61,556.74
+PS3,Sony,2006,static,499,805,791.57,1276.98
+3DS,Nintendo,2011,portable,249.99,100,355.41,142.17
+WiiU,Nintendo,2012,static,299,180,416.47,250.72
+PS4,Sony,2013,static,399,381,547.74,523.03
+XOne,Microsoft,2013,static,499,471,685.02,646.58
+PSV,Sony,2012,portable,249,160,346.83,222.86
+NS,Nintendo,2017,portable,299,257,390.09,335.30
+XS,Microsoft,2020,static,299,299,369.46,369.46
+PS5,Sony,2020,static,499,450,616.59,556.04
